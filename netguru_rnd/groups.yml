@@ -4,3 +4,4 @@ groups:
     users:
       - testUser
       - text.user
+      - another.user
