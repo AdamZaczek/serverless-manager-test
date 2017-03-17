@@ -1,3 +1,4 @@
 users:
-  - sample.user
+  - testUser
+  - text.user
   - another.user
