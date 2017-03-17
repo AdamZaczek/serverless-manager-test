@@ -2,6 +2,8 @@ groups:
   - name: developers
     policy: s3-list-bucket-access-policy
     users:
-      - testUser
-      - text.user
+      - sample.user
+  - name: developers-two
+    policy: s3-list-bucket-access-policy
+    users:
       - another.user
